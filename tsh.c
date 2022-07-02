@@ -1,8 +1,8 @@
-/* CSCI2467 Shell Lab
+/*
  * tsh - A tiny shell program with job control
  * 
- * Emmanuel Adefuye eaadefuy@uno.edu
- * 03/2020
+ * Emad Salim
+ * 02/2021
  */
 #include <stdio.h>
 #include <stdlib.h>
